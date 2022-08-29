@@ -28,7 +28,7 @@ Users should be able to:
 
 ## Author
 
-- My Website - [sidneyuwaya.netlify.app](sidneyuwaya.netlify.app)
+- My Website - [sidneyuwaya.netlify.app](https://sidneyuwaya.netlify.app)
 - Frontend Mentor - [@sidney2022](https://www.frontendmentor.io/profile/sidney2022)
 - Twitter - [@sidneyuwaya](https://www.twitter.com/sidneyuwaya)
 
