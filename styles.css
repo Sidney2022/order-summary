@@ -138,3 +138,31 @@ h1 {
 .cancel-btn:hover {
     font-weight: bold;
 }
+
+
+/* mobile screens */
+@media (max-width:768px) {
+    main {
+        background: url(./images/pattern-background-mobile.svg) no-repeat center ;
+        background-position: inherit;
+        background-size: contain;
+        width: 100%;
+        /* background-position: initial; */
+        background-color: hsl(225, 100%, 94%);
+        min-height: 100vh;
+        /* padding-top:50px; */
+    }
+
+    .card {
+        width: 80%;
+
+    }
+}
+@media (max-width:500px) {
+   
+
+    .card {
+        width: 90%;
+
+    }
+}
